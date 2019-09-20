@@ -32,6 +32,16 @@ Q&A - https://github.com/shazamazon/modules-qa
 
 Footer - https://github.com/shazamazon/module-footer
 
+## Stack
+
+This component is built with the following technologies:
+
+  - React (front-end)
+  - Express (server)
+  - MongoDB Atlas (Cloud, non-relational database)
+  - Mongoose (server/database communication)
+  - Amazon EC2 (deployment)
+
 ## Table of Contents
 
 1. [Usage](#Usage)
